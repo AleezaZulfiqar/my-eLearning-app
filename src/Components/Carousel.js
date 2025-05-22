@@ -13,10 +13,14 @@ const Carousel = () => {
       <div class="carousel-caption  d-md-block" id='cap'>
       <div class='captions'>
         <h5 class='best'>BEST ONLINE COURSES</h5>
-        <h1 class='heading'><span className='sp'>The Best online</span><br/><span class="sp">Learning platform</span></h1>
+        <div className='online'>
+        <h1 class='heading'>The Best online<br/><span className='sp'>Learning platform</span></h1>
+        </div>
+        <div className='vero'>
         <p class='para'>Vero elitr justo clita lorem.  Kasd rebum ipsum<br/>
        <span class="diam"> at diam justo clita at kasd rebum sea sanctus eirmod elitr.</span>
         </p>
+        </div>
         <div className='read'>
        <button>Read more</button>
        <button id='join'>Join Now</button>
@@ -29,7 +33,9 @@ const Carousel = () => {
       <div class="carousel-caption  d-md-block" id='cap'>
         <div class='captions'>
         <h5 class='best'>BEST ONLINE COURSES</h5>
+        <div className='online1'>
         <h1 class='heading'><span id='spp'>Get Educated Online</span><br/><span class="spe">From Your Home</span></h1>
+        </div>
         <p class='para'>Vero elitr justo clita lorem.  Kasd rebum ipsum<br/>
        <span class="diam"> at diam justo clita at kasd rebum sea sanctus eirmod elitr.</span>
         </p>
