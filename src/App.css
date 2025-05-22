@@ -8,12 +8,8 @@
   display: flex;
   flex-direction:row;
   gap:15px;
-  /* background-color: antiquewhite; */
   height:90px;
   margin:-32px 0 0 0;
-
-  
-
 }
 #navv{
   box-shadow: 0px 0px 10px black ;
@@ -24,7 +20,6 @@
   font-size:30px;
   font-family:Arial, Helvetica, sans-serif;
   padding:14px 0 0 0;
-  
 }
 
 .container-fluid{
@@ -127,7 +122,6 @@ animation:slide-in 3s ease-in-out forwards ;
   font-weight:700;
 }
 .online{
-  /* background-color: #181d38; */
   width:600px;
   margin-left:100px;
 }
@@ -454,7 +448,6 @@ animation:slide-in 3s ease-in-out forwards ;
  }
  .Card1-image{
   position: absolute;
-  /* background-color: #252525; */
   width:27%;
   height:70px;
   margin:-50px 0 0 0;
@@ -468,7 +461,6 @@ animation:slide-in 3s ease-in-out forwards ;
  }
  .Card2-image{
   position: absolute;
-  /* background-color: #252525; */
   width:27%;
   height:70px;
   margin:-50px 0 0 0;
@@ -482,7 +474,6 @@ animation:slide-in 3s ease-in-out forwards ;
  }
  .Card3-image{
   position: absolute;
-  /* background-color: #252525; */
   width:27%;
   height:70px;
   margin:-50px 0 0 0;
@@ -557,7 +548,6 @@ animation:slide-in 3s ease-in-out forwards ;
  .detail{
   width:100%;
   height:200px;
-  /* background-color: blanchedalmond; */
   text-align: center;
   margin:15px 0 0 0;
  }
@@ -572,7 +562,6 @@ animation:slide-in 3s ease-in-out forwards ;
  .stars{
   display: flex;
   flex-direction: row;
-  /* background-color: bisque; */
   justify-content: center;
   height:30px;
  }
@@ -583,7 +572,6 @@ animation:slide-in 3s ease-in-out forwards ;
  .cont{
   width:100%;
   height:35px;
-  /* background-color: rgb(180, 180, 189); */
   border-top: 1px solid rgb(214, 212, 212);
   display: flex;
   flex-direction: row;
@@ -593,7 +581,6 @@ animation:slide-in 3s ease-in-out forwards ;
  .person-icon{
   display: flex;
   flex-direction: row;
-  /* background-color: bisque; */
   border-right: 1px solid rgb(204, 203, 203);
   height:36px;
   padding:5px 0 0 0;
@@ -601,14 +588,10 @@ animation:slide-in 3s ease-in-out forwards ;
  .person-icon ul li{
    list-style:none;
    float: left;
-   /* margin-right:6px; */
-    /* padding-inline:1px; */
-
  }
   .clock-icon{
   display: flex;
   flex-direction: row;
-  /* background-color: bisque; */
   border-right: 1px solid rgb(204, 203, 203);
   height:36px;
   padding:7px 0 0 0;
@@ -620,7 +603,6 @@ animation:slide-in 3s ease-in-out forwards ;
   .user-icon{
   display: flex;
   flex-direction: row;
-  /* background-color: bisque; */
   height:36px;
   padding:5px 0 0 0;
  }
@@ -653,7 +635,6 @@ animation:slide-in 3s ease-in-out forwards ;
  .Experts{
   width:100%;
   height:500px;
-  /* background-color: #06bbcc; */
   display: flex;
   flex-direction: row;
   margin:40px 0 0 0;
@@ -691,12 +672,10 @@ animation:slide-in 3s ease-in-out forwards ;
  #fb {
   color:white;
   margin-top:15px;
-
  }
  .inst-detail{
   width:80%;
   height:70px;
-  /* background-color: aquamarine; */
   margin: 30px auto;
  }
  .Footer{
@@ -712,7 +691,6 @@ animation:slide-in 3s ease-in-out forwards ;
  .row{
   width:21%;
   height:260px;
-  /* background-color: rgb(39, 40, 41); */
   display: flex;
   flex-direction: column;
   gap:6px;
@@ -728,7 +706,6 @@ animation:slide-in 3s ease-in-out forwards ;
   width:20%;
   height:200px;
   margin:-60px 0 0 0;
-  /* background-color: aqua; */
  }
  .links ul li{
    list-style:none;
@@ -740,8 +717,6 @@ animation:slide-in 3s ease-in-out forwards ;
   width:20%;
   height:100px;
   margin:-60px 0 0 0;
-  /* background-color: aqua; */
-
  }
  .Links ul li{
    list-style:none;
@@ -758,14 +733,12 @@ animation:slide-in 3s ease-in-out forwards ;
 .social-icons{
   width:100px;
   height:60px;
-  /* background-color: antiquewhite; */
   display: flex;
   flex-direction: row;
 }
 .social-icons div{
   width:45px;
   height:40px;
-  /* background-color: aqua; */
   margin:10px auto;
   text-align: center;
   padding:8px 0 0 0;
@@ -788,7 +761,6 @@ animation:slide-in 3s ease-in-out forwards ;
 .gallery{
   width:140px;
   height:50px;
-  /* background-color: aqua; */
   display: flex;
   flex-direction:row;
   gap:10px;
@@ -796,7 +768,6 @@ animation:slide-in 3s ease-in-out forwards ;
 .gallery div{
   width:70px;
   height:50px;
-  /* background-color: aliceblue; */
  
 }
 #gal{
@@ -838,14 +809,12 @@ animation:slide-in 3s ease-in-out forwards ;
 .main-footer{
   display: flex;
   flex-direction:row;
-  /* background-color: aliceblue; */
   width:100%;
   justify-content: center;
   gap:55px;
 }
 .foot{
   width:90%;
-  /* background-color: #06bbcc; */
   height:100px;
   margin:0 auto;
   border-top:1px solid rgb(150, 149, 149);
@@ -855,7 +824,6 @@ animation:slide-in 3s ease-in-out forwards ;
 .foot1{
   width:100%;
   height:60px;
-  /* background-color: #06bbcc; */
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -907,17 +875,14 @@ animation:slide-in 3s ease-in-out forwards ;
   top: 0;
   left: 0;
   width: 100%;
-  z-index: 999; /* Ensure it's on top of other elements */
-  background-color: #fff; /* Make sure the navbar has a background */
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Add some shadow for better visibility */
+  z-index: 999; 
+  background-color: #fff;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   }
 .brandi {
     text-align: center;
     margin-left: 0;
   }
-
-
-/
 .brandi h2 {
     font-size: 1.5rem;
   }

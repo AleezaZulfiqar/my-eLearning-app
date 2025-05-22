@@ -11,7 +11,7 @@ const Popular = () => {
     <div className='Course-card'>
     <div className='card1'>
      <div className='card1-image'>
-     <img src={image1}/>
+     <img src={image1} alt=''/>
      </div>
      <div className='Card1-image'>
           <button className='read-btn'>Read More</button>
@@ -58,7 +58,7 @@ const Popular = () => {
 
     <div className='card2'>
       <div className='card2-image'>
-     <img src={image2}/>
+     <img src={image2} alt=''/>
      </div>
      <div className='Card2-image'>
           <button className='read-btn'>Read More</button>
@@ -104,7 +104,7 @@ const Popular = () => {
     </div>
     <div className='card3'>
       <div className='card3-image'>
-     <img src={image3}/>
+     <img src={image3} alt=''/>
      </div>
      <div className='Card3-image'>
           <button className='read-btn'>Read More</button>
