@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/AleezaZulfiqar/my-eLearning-app.git/static/css/main.0a057791.css",
+    "main.js": "/AleezaZulfiqar/my-eLearning-app.git/static/js/main.7502fd3d.js",
+    "static/js/453.ed3810f9.chunk.js": "/AleezaZulfiqar/my-eLearning-app.git/static/js/453.ed3810f9.chunk.js",
+    "static/media/img.jpg": "/AleezaZulfiqar/my-eLearning-app.git/static/media/img.c37ef924a09242339bcc.jpg",
+    "static/media/carousel-2.jpg": "/AleezaZulfiqar/my-eLearning-app.git/static/media/carousel-2.1d4c3086659b1e63c7a3.jpg",
+    "static/media/about-img.jpg": "/AleezaZulfiqar/my-eLearning-app.git/static/media/about-img.5f8b4861689924323c60.jpg",
+    "static/media/video.jpg": "/AleezaZulfiqar/my-eLearning-app.git/static/media/video.a54e04e9db793d174bce.jpg",
+    "static/media/marketing.jpg": "/AleezaZulfiqar/my-eLearning-app.git/static/media/marketing.7e07c574dc4fa4d8412d.jpg",
+    "static/media/web.jpg": "/AleezaZulfiqar/my-eLearning-app.git/static/media/web.c251f2cc3ceeaf4c7500.jpg",
+    "static/media/inst3.jpg": "/AleezaZulfiqar/my-eLearning-app.git/static/media/inst3.ea511638364e1cfb9f69.jpg",
+    "static/media/graphic.jpg": "/AleezaZulfiqar/my-eLearning-app.git/static/media/graphic.f7ebf3772415ecaa4706.jpg",
+    "static/media/inst4.jpg": "/AleezaZulfiqar/my-eLearning-app.git/static/media/inst4.2c2eb82dd68e400f43cc.jpg",
+    "static/media/image3.jpg": "/AleezaZulfiqar/my-eLearning-app.git/static/media/image3.a1c27eb1a3f510840d13.jpg",
+    "static/media/image2.jpg": "/AleezaZulfiqar/my-eLearning-app.git/static/media/image2.caaa59628a447a69ede6.jpg",
+    "static/media/image1.jpg": "/AleezaZulfiqar/my-eLearning-app.git/static/media/image1.d8bd3ee123c7eba942e3.jpg",
+    "static/media/inst1.jpg": "/AleezaZulfiqar/my-eLearning-app.git/static/media/inst1.df075697e0ef60906dec.jpg",
+    "static/media/inst2.jpg": "/AleezaZulfiqar/my-eLearning-app.git/static/media/inst2.10ecf4f56a747ac0e25b.jpg",
+    "index.html": "/AleezaZulfiqar/my-eLearning-app.git/index.html",
+    "main.0a057791.css.map": "/AleezaZulfiqar/my-eLearning-app.git/static/css/main.0a057791.css.map",
+    "main.7502fd3d.js.map": "/AleezaZulfiqar/my-eLearning-app.git/static/js/main.7502fd3d.js.map",
+    "453.ed3810f9.chunk.js.map": "/AleezaZulfiqar/my-eLearning-app.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a057791.css",
+    "static/js/main.7502fd3d.js"
+  ]
+}
